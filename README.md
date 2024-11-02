@@ -55,7 +55,7 @@ Resume_Builder/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/prathamesh-patil-5090/Resume_Builder_Using_Django.git
+git clone https://github.com/patilprathamesh07/Resume_Builder_Using_Django.git
 ```
 
 2. Navigate to the project directory:
